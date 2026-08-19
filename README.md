@@ -105,7 +105,7 @@ The results can help:
 ```text
 Zomato Restaurant Clustering
 │
-├── Zomato_Project_Humanized_Final.ipynb
-├── Zomato Restaurant names and Metadata(2).csv
-├── Zomato Restaurant reviews(2).csv
+├── Zomato_Project__Final.ipynb
+├── Zomato Restaurant names and Metadata.csv
+├── Zomato Restaurant reviews.csv
 └── README.md
